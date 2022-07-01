@@ -84,10 +84,10 @@ img {
 
 @media (max-width: 540px) {
     #imgBox {
-        top: 20vh;
+        top: 18vh;
         margin: 0;
     }
     img {
-        width: 98vw;
+        width: 94vw;
     }
 };
